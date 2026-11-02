@@ -1,6 +1,3 @@
-# phishing-email-analysis
-Hands-on phishing email analysis TryHackMe lab using Thunderbird and CyberChef
-
 # Phishing Email Analysis — TryHackMe Lab
 
 A hands-on email analysis project covering sender identification, email headers, authentication results, Base64 attachment decoding, and phishing indicators.
